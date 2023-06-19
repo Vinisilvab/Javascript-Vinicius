@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+main{
+    background-image: linear-gradient(black, blue);
+    color: aliceblue;
+    width: auto;
+    height: 150px;
+    text-align: center;
+}
